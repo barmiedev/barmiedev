@@ -1,23 +1,17 @@
 # Hi, I'm barmiedev 👾
 
-🧪 Doing IT for music  
-🎸 Full-stack dev, solo founder & digital noise-maker  
-🎛️ Building tools at the intersection of code and music  
+👋 Full-stack dev, solo founder, digital provocateur.  
+🎸 Building software for the messy, magical world of music.
+
+> Doing IT for music
+
+I build in public — the ideas, the breakdowns, the breakthroughs.  
+Projects live under [Glusza](https://github.com/glusza) — my indie lab for artist-first tech.
+
+Here you’ll find:
+- music-focused tools & prototypes
+- experiments that don’t fit the mold
+- documentation for the journey, not just the product
 
 ---
-
-## 🥁 What I’m working on
-
-- 🧠 [Glusza](https://github.com/glusza) — my indie lab for building music-first software
-- 🧰 Music tools, artist CRMs, creative workflows
-- 🕶️ Vision-led tech. No fluff. No permission asked.
-
----
-
-## 📊 Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barmiedev&layout=compact&theme=radical)
-
----
-
-> 🖤 Raw energy. Artist respect. Open source.
+🧪 Follow the noise, not the hype.
