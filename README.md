@@ -6,7 +6,6 @@
 > Doing IT for music
 
 I build in public — the ideas, the breakdowns, the breakthroughs.  
-Projects live under [Glusza](https://github.com/glusza) — my indie lab for artist-first tech.
 
 Here you’ll find:
 - music-focused tools & prototypes
